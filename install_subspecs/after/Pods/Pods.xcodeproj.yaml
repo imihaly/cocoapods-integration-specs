@@ -134,9 +134,7 @@ Targets:
       - Pods-OS X App-PodTest-umbrella.h:
           ATTRIBUTES:
           - Public
-      - subspec_2.h:
-          ATTRIBUTES:
-          - Public
+      - subspec_2.h
     Build Configurations:
     - Debug:
         Build Settings:
